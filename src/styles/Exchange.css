@@ -1,0 +1,52 @@
+.exchange-page{
+  text-align:center;
+}
+
+.exchange-page h1{
+  margin-bottom:10px;
+}
+
+.student-grid{
+  display:grid;
+  grid-template-columns:
+  repeat(auto-fit,minmax(280px,1fr));
+  gap:25px;
+  margin-top:40px;
+}
+
+.student-card{
+  background:white;
+  padding:25px;
+  border-radius:15px;
+  box-shadow:0 5px 15px rgba(0,0,0,0.1);
+  transition:0.3s;
+}
+
+.student-card:hover{
+  transform:translateY(-8px);
+}
+
+.profile-card{
+  margin-bottom:20px;
+}
+
+.profile-card h2{
+  color:#2563eb;
+}
+
+.student-card ul{
+  list-style:none;
+  margin-top:10px;
+  margin-bottom:20px;
+}
+
+.student-card li{
+  margin-bottom:8px;
+}
+
+.student-card button{
+  background:#22c55e;
+  color:white;
+  padding:12px 20px;
+  border-radius:8px;
+}

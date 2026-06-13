@@ -1,0 +1,77 @@
+.profile-page{
+  max-width:1000px;
+  margin:auto;
+}
+
+.profile-page h1{
+  text-align:center;
+  margin-bottom:20px;
+}
+
+.coin-box{
+  background:linear-gradient(
+    135deg,
+    #f59e0b,
+    #facc15
+  );
+  color:white;
+  font-size:22px;
+  text-align:center;
+  padding:20px;
+  border-radius:15px;
+  margin-bottom:30px;
+}
+
+.skill-section{
+  background:white;
+  padding:25px;
+  border-radius:15px;
+  margin-bottom:30px;
+  box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.skill-section h2{
+  margin-bottom:15px;
+}
+
+.skill-section input{
+  width:70%;
+  padding:12px;
+  border:1px solid #ccc;
+  border-radius:8px;
+}
+
+.skill-section button{
+  margin-left:10px;
+  padding:12px 18px;
+  background:#2563eb;
+  color:white;
+  border-radius:8px;
+}
+
+.skill-list{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-top:20px;
+}
+
+.skill-card{
+  background:#e0e7ff;
+  padding:10px 18px;
+  border-radius:25px;
+  font-weight:600;
+}
+
+.recommendation-box{
+  background:white;
+  padding:25px;
+  border-radius:15px;
+  box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.recommendation-box select{
+  padding:10px;
+  margin-top:10px;
+  margin-bottom:20px;
+}

@@ -1,0 +1,30 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'Poppins',sans-serif;
+}
+
+body{
+  background:#f4f7fc;
+  color:#1e293b;
+}
+
+.main-container{
+  min-height:85vh;
+  padding:30px;
+}
+
+a{
+  text-decoration:none;
+}
+
+button{
+  cursor:pointer;
+  border:none;
+  transition:0.3s ease;
+}
+
+button:hover{
+  transform:translateY(-2px);
+}
