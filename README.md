@@ -100,7 +100,10 @@ SKILLSWAP/
 │   ├── App.js
 │   └── index.js
 
-⚙️ Installation & Setup
+---
+
+## ⚙️ Installation & Setup
+
 # Clone repository
 git clone https://github.com/your-username/skillswap.git
 
@@ -113,7 +116,11 @@ npm install
 # Start project
 npm start
 
-🚀 Future Improvements
+
+---
+
+
+## 🚀 Future Improvements
 🔐 Authentication (Login/Signup)
 🗄️ Backend (Node.js + MongoDB)
 💬 Real-time chat (Socket.io)
@@ -121,6 +128,8 @@ npm start
 📊 Database-driven profiles
 🔔 Notifications system
 🏅 Certificate generation
-📌 Note
+---
+
+## 📌 Note
 
 This project is a frontend prototype demonstrating React development, UI/UX design, and state management concepts.
