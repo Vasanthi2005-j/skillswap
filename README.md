@@ -85,8 +85,7 @@ It builds a **peer-to-peer skill exchange ecosystem**.
 - Git (optional)
 
 ---
-
-## 📂 Project Structure
+# 📁 Project Structure
 
 ```text
 SKILLSWAP/
@@ -101,9 +100,9 @@ SKILLSWAP/
 │   └── index.js
 
 ---
+# ⚙️ Installation & Setup
 
-## ⚙️ Installation & Setup
-
+```bash
 # Clone repository
 git clone https://github.com/your-username/skillswap.git
 
@@ -116,20 +115,20 @@ npm install
 # Start project
 npm start
 
-
 ---
 
-
 ## 🚀 Future Improvements
-🔐 Authentication (Login/Signup)
-🗄️ Backend (Node.js + MongoDB)
-💬 Real-time chat (Socket.io)
-🧠 AI integration (OpenAI / Gemini API)
-📊 Database-driven profiles
-🔔 Notifications system
-🏅 Certificate generation
+
+- 🔐 Authentication (Login/Signup)
+- 🗄️ Backend (Node.js + MongoDB)
+- 💬 Real-time chat (Socket.io)
+- 🧠 AI integration (OpenAI / Gemini API)
+- 📊 Database-driven profiles
+- 🔔 Notifications system
+- 🏅 Certificate generation
+
 ---
 
 ## 📌 Note
 
-This project is a frontend prototype demonstrating React development, UI/UX design, and state management concepts.
+This project is a frontend prototype demonstrating **React development, UI/UX design, and state management concepts.**
