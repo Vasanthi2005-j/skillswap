@@ -6,8 +6,8 @@ SkillSwap is a modern React-based web application that enables students to excha
 
 ## 🌐 Live Demo
 
-👉 https://your-live-demo-link.com  
-*(Replace with your deployed Vercel / Netlify link)*
+👉 https://skillswap-lovat-mu.vercel.app/  
+
 
 ---
 
